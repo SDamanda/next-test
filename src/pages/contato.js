@@ -5,8 +5,8 @@ export default function Contato() {
         <p className="text-gray-600 mt-4">
             formulario
             </p>
+    </div>
 
-
-    )
+    );
 
 }
