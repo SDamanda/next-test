@@ -6,7 +6,7 @@ export default function Sobre() {
       <h1 className="text-4xl font-bold">Sobre mim</h1>
       <p className="text-lg text-gray-600">Essa é a página de sobre 😄</p>
 
-      <Link href="/" className="text-blue-500 hover:underline">
+      <Link href="/home/src/pages/index.js" className="text-blue-500 hover:underline">
         Voltar para a Home
       </Link>
     </div>
